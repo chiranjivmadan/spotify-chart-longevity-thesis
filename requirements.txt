@@ -1,0 +1,8 @@
+# Versions from the successful thesis notebook environment (Python 3.9.6).
+numpy==1.25.1
+pandas==2.0.3
+scipy==1.11.1
+scikit-learn==1.5.0
+matplotlib==3.7.2
+seaborn==0.13.2
+ipython==8.9.0

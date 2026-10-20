@@ -1,0 +1,35 @@
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+.env.*
+*.pem
+*.key
+credentials.*
+secrets.*
+*.tmp
+*.temp
+
+# Third-party raw downloads and extracted data
+data/raw/charts/original/*
+data/raw/charts/extracted/
+data/raw/spotify_550k/*
+data/raw/spotify_160k/*
+
+# All processed and frozen artifacts are private to a local working copy.
+data/processed/*
+!data/processed/README.md
+
+# Generated notebook products and figures
+notebooks/final_thesis_v2/execution_records/
+notebooks/final_thesis_v2/notebook_execution_summary_v2.json
+outputs/
+
+# The final thesis PDF is outside this code-only public candidate.
+thesis/

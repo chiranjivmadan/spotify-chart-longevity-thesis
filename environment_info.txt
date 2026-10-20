@@ -1,0 +1,19 @@
+Known successful environment
+============================
+
+Python: 3.9.6
+Platform: macOS 12.7.6, Intel x86_64
+
+Relevant packages:
+numpy 1.25.1
+pandas 2.0.3
+scipy 1.11.1
+scikit-learn 1.5.0
+matplotlib 3.7.2
+seaborn 0.13.2
+IPython 8.9.0
+
+The supplied runner uses IPython directly. Jupyter, nbformat and nbconvert were
+not installed in the recorded successful runner environment and are not needed
+for the canonical command-line execution route. A Jupyter interface may be
+installed separately if manual interactive execution is preferred.

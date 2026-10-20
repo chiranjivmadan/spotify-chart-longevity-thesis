@@ -1,0 +1,20 @@
+{
+  "source_url": "https://www.kaggle.com/datasets/bartomiejczyewski/spotify-top-200-weekly-global-20172021",
+  "owner": "Bartłomiej Czyżewski",
+  "access_date": "2026-07-13",
+  "kaggle_licence": "CC0: Public Domain",
+  "stated_upstream_source": "Spotify Charts (spotifycharts.com/regional), scraped by the dataset creator; supplementary song information from the Spotify API.",
+  "original_archive": "spotify_top_200_weekly_global_2017_2021.zip",
+  "original_archive_sha256": "642244e89b797b5de46248bd8cc12d8da37e3c2e638698f5e571164a203e1544",
+  "original_member": "Spotify Top 200 Global (2017-2021).csv",
+  "download_method": "Kaggle public download endpoint; no direct collection from Spotify Charts or Kworb.",
+  "page_claims": {
+    "scope": "Global Top 200 weekly",
+    "date_coverage": "2017-2021",
+    "rank": "Rank is the weekly Top 200 position.",
+    "streams": "Streams is the number of streams during the week.",
+    "known_limitation": "The creator warns that up to approximately five weeks may be missing."
+  },
+  "attribution_note": "CC0 does not impose an attribution condition. Cite the Kaggle dataset and upstream sources in the thesis for scholarly provenance.",
+  "legal_status_note": "The Kaggle licence is recorded as stated. It does not independently resolve potential rights or platform terms affecting the upstream Spotify Charts/API data."
+}
